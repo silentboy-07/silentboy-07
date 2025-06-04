@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img width="200" src="https://avatars.githubusercontent.com/u/116294191?s=400&u=836651aa6fc8074d4c396f6bce6c830475532b1b&v=4">
 </p>
 
 <h1 align="center">
